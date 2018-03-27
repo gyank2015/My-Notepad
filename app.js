@@ -11,7 +11,7 @@ var titleOptions ={
 };
 var bodyOptions ={
   description: 'Body of Note',
-  requirement: 'true',
+  requirement: true,
   alias:'b'
 };
 //const os = require('os');
